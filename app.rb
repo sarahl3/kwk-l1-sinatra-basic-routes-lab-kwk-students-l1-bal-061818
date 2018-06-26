@@ -8,9 +8,9 @@ get '/' do
   "My name is __"
  end
  get '/hometown' do
-  "My hometown is __",
+  "My hometown is __"
  end
  get '/favorite-song' do
-  "My favorite song is__".
+  "My favorite song is__"
  end
 end
