@@ -11,6 +11,6 @@ get '/' do
   "My hometown is __",
  end
  get '/favorite-song' do
-  "My fvaorite song is__".
+  "My favorite song is__".
  end
 end
